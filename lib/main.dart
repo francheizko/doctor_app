@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_const_constructors
 
-import 'package:doctor_app/screens/detailScreen.dart';
+import 'package:doctor_app/screens/gilang.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -15,7 +15,7 @@ class MainApp extends StatelessWidget {
     return MaterialApp(
       initialRoute: '/',
       routes: {
-        '/': (context) => detailScreen(),
+        '/': (context) => gilang(),
       },
     );
   }

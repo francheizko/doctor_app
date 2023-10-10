@@ -3,8 +3,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class detailScreen extends StatelessWidget {
-  const detailScreen({super.key});
+class gilang extends StatelessWidget {
+  const gilang({super.key});
 
   @override
   Widget build(BuildContext context) {
