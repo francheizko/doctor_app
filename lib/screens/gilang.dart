@@ -11,6 +11,9 @@ class gilang extends StatelessWidget {
     return Scaffold(
       body: Column(
         children: [
+          SizedBox(
+            height: 50,
+          ),
           Container(
             alignment: Alignment.topCenter,
             height: 375,
