@@ -12,7 +12,7 @@ class gilang extends StatelessWidget {
       body: Column(
         children: [
           SizedBox(
-            height: 50,
+            height: 60,
           ),
           Container(
             alignment: Alignment.topCenter,
